@@ -1,0 +1,30 @@
+h1{
+	background-image: url('img/707255.jpg');
+	background-size: 50% 50%;
+	background-repeat: no-repeat;
+	background-position: center; 
+	width: 1300px;
+	height: 800px;
+	font-size: 50px;
+	border: 5px dotted red;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+
+
+
+}
+#second-para {
+	color: red;
+	background-color: black;
+	border: 2px dashed red;
+	font-size: 20px;
+	text-transform: capitalize;
+
+}
+#first-para{
+	color: red;
+	background-color: blue;
+	border: 2px solid red;
+	font-size: 20px
+}
